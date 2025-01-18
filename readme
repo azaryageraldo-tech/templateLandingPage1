@@ -1,0 +1,60 @@
+# Template LANDING PAGE JASA PEMBUATAN WEB/APK 
+
+Deskripsi singkat tentang proyek Anda.
+
+## Prerequisites
+
+Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
+
+- [Node.js](https://nodejs.org/) (versi 12 atau lebih baru)
+- [npm](https://www.npmjs.com/) atau [yarn](https://yarnpkg.com/)
+
+## Cara Menjalankan Proyek
+
+1. **Clone repositori ini:**
+
+   ```bash
+   git clone https://github.com/username/repo.git
+   ```
+
+2. **Masuk ke direktori proyek:**
+
+   ```bash
+   cd nama-proyek-anda
+   ```
+
+3. **Instal dependensi:**
+
+   Jika Anda menggunakan npm:
+
+   ```bash
+   npm install
+   ```
+
+   Atau jika Anda menggunakan yarn:
+
+   ```bash
+   yarn install
+   ```
+
+4. **Jalankan proyek:**
+
+   Jika Anda menggunakan npm:
+
+   ```bash
+   npm run dev
+   ```
+
+   Atau jika Anda menggunakan yarn:
+
+   ```bash
+   yarn dev
+   ```
+
+5. **Akses aplikasi:**
+
+   Buka browser dan kunjungi [http://localhost:3000](http://localhost:3000) untuk melihat aplikasi Anda.
+
+## Penutup
+
+Tambahkan informasi tambahan atau catatan di sini jika diperlukan.
